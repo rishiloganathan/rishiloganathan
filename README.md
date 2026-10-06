@@ -1,36 +1,27 @@
 <div align="center">
 
-<!-- 🔥 ANIMATED HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CYBERSECURITY HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,25:0D0000,50:1A0000,75:8B0000,100:FF0000&text=RISHI&fontColor=FFFFFF&fontSize=75&fontAlignY=38&animation=twinkling&desc=CYBER%20SECURITY%20%7C%20NETWORKING%20%7C%20PYTHON&descAlignY=62&descSize=18&descColor=FF3333"/>
-
-<br>
-
-<!-- 🔴 ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,25:0D0000,50:180000,75:8B0000,100:FF0000&text=RISHI&fontColor=FFFFFF&fontSize=75&fontAlignY=38&animation=twinkling&desc=CYBER%20SECURITY%20%7C%20NETWORKING%20%7C%20PYTHON&descAlignY=62&descSize=18&descColor=FF3333"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=FF2222&center=true&vCenter=true&width=850&height=55&lines=%3E%3E+Cyber+Security+Student+%F0%9F%94%90;%3E%3E+Network+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;%3E%3E+Python+Developer+%F0%9F%90%8D;%3E%3E+Ethical+Hacking+Learner+%F0%9F%94%A5;%3E%3E+Threat+Detection+Explorer+%F0%9A%A8;%3E%3E+Exploring+%7C+Learning+%7C+Securing" alt="Typing SVG"/>
 
-<br><br>
+<br>
 
-<!-- 🔗 SOCIAL BUTTONS -->
-
-<a href="https://github.com/rishiloganathan">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<a href="mailto:rishiloganathan13@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rishi-l-69ba5931a/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
-</a>
-
-<a href="mailto:rishiloganathan13@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CYBER_SECURITY-FF0000?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/NETWORKING-8B0000?style=for-the-badge&logo=cisco&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-FF0000?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBER%20SECURITY-111111?style=for-the-badge&labelColor=FF0000"/>
 
 </div>
 
@@ -38,214 +29,290 @@
 
 # 🔴 ABOUT ME
 
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│   👋 Hi, I'm Rishi                                            │
-│                                                               │
-│   🎓 Cyber Security Student                                  │
-│   🛡️ Cyber Security & Networking Enthusiast                 │
-│   🐍 Python Developer                                        │
-│   🔐 Ethical Hacking Learner                                 │
-│   🚨 Threat Detection Explorer                               │
-│                                                               │
-│   I am passionate about cybersecurity, network security,      │
-│   ethical hacking, Python programming and intelligent         │
-│   threat detection systems.                                  │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
+Hi, I'm **Rishi**, a **B.Tech Cyber Security student at SRM Institute of Science and Technology, Chennai**.
 
----
+I am passionate about understanding how computer systems, networks, and security technologies work and how they can be protected against cyber threats.
 
-# 🔥 PROFILE
+My primary interests include **Cyber Security, Network Security, Ethical Hacking, Threat Detection, Networking, Python, Machine Learning, and Digital Forensics**.
 
-| 🔴 Category | ⚫ Details |
-|------------|------------|
-| 🎓 Education | B.Tech – Cyber Security |
-| 🏫 Institution | SRM Institute of Science and Technology |
-| 📍 Location | Chennai, India |
-| 💻 GitHub | [@rishiloganathan](https://github.com/rishiloganathan) |
-| 🔐 Domain | Cyber Security |
-| 🌐 Interests | Networking • Ethical Hacking • Threat Detection |
-| 🐍 Primary Language | Python |
+I enjoy building practical projects, experimenting with security tools, learning new technologies, and continuously improving my problem-solving and programming skills.
 
----
-
-# 🛡️ CYBER SECURITY INTERESTS
+My goal is to transform my cybersecurity knowledge into practical solutions that can help identify, analyze, and defend against real-world security threats.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-000000?style=for-the-badge&logo=fortinet&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/ETHICAL_HACKING-000000?style=for-the-badge&logo=kalilinux&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/THREAT_DETECTION-000000?style=for-the-badge&logo=virustotal&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/IDS%2FIPS-000000?style=for-the-badge&logo=suricata&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/DIGITAL_FORENSICS-000000?style=for-the-badge&logo=linux&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/PENETRATION_TESTING-000000?style=for-the-badge&logo=hackthebox&logoColor=FF0000"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=FF0000&center=true&vCenter=true&width=700&height=40&lines=%5B+INITIALIZING+CYBERSECURITY+PROFILE...+%5D;%5B+NETWORK+SECURITY+MODULE+ONLINE+%5D;%5B+PYTHON+SECURITY+ENGINE+ONLINE+%5D;%5B+THREAT+DETECTION+MODULE+ONLINE+%5D;%5B+SYSTEM+READY+%5D" alt="System Animation"/>
+
+</div>
+
+---
+
+# 🧑‍💻 PROFILE
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 **Degree** | B.Tech – Cyber Security |
+| 🏫 **University** | SRM Institute of Science and Technology |
+| 📍 **Location** | Chennai, Tamil Nadu, India |
+| 📅 **Graduation** | 2027 |
+| 💻 **Primary Language** | Python |
+| 🛡️ **Main Interest** | Cyber Security |
+| 🌐 **Focus Areas** | Networking & Network Security |
+
+</div>
+
+---
+
+# 🛡️ CYBERSECURITY INTERESTS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CYBER%20SECURITY-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-111111?style=for-the-badge&logo=cisco&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/ETHICAL%20HACKING-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/NETWORKING-111111?style=for-the-badge&logo=cisco&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/THREAT%20DETECTION-FF0000?style=for-the-badge&logo=shield&logoColor=white"/>
 
 </div>
 
 <br>
 
-```text
-🔴 Network Security
-🔴 Intrusion Detection & Prevention
-🔴 Ethical Hacking
-🔴 Threat Detection
-🔴 Digital Forensics
-🔴 Vulnerability Assessment
-🔴 Security Automation
-🔴 Network Monitoring
-🔴 Incident Response
-```
+<div align="center">
+
+| 🔐 Security | 🌐 Networking | 🐍 Development |
+|:---:|:---:|:---:|
+| Cyber Security | Computer Networks | Python |
+| Network Security | TCP/IP | Java |
+| Ethical Hacking | DNS | SQL |
+| Threat Detection | HTTP/HTTPS | Git |
+| IDS / IPS | Network Monitoring | Linux |
+
+</div>
 
 ---
 
 # 💻 TECHNICAL SKILLS
 
-### 🐍 Programming
+## 🐍 Programming & Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,linux,vscode&theme=dark"/>
 
 </div>
-
-### 🌐 Networking & Security
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=cisco&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-000000?style=for-the-badge&logo=fortinet&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/SNORT-000000?style=for-the-badge&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/SURICATA-000000?style=for-the-badge&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=FF0000"/>
-
-</div>
-
-### 🤖 Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Random_Forest-000000?style=for-the-badge&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Anomaly_Detection-000000?style=for-the-badge&logoColor=FF0000"/>
-
-</div>
-
-### 🧰 Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,streamlit&theme=dark"/>
-
-</div>
-
----
-
-# 🏆 CERTIFICATIONS
-
-```text
-🔴 Cyber Security Fundamentals
-🔴 Networking Fundamentals
-🔴 Python Programming
-🔴 Ethical Hacking
-🔴 Security Awareness
-```
-
----
-
-# 🚀 CURRENTLY LEARNING
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        🔥 CURRENTLY LEVELING UP 🔥                  ║
-║                                                      ║
-║        → Advanced Cyber Security                    ║
-║        → Ethical Hacking                            ║
-║        → Network Security                           ║
-║        → Penetration Testing                         ║
-║        → Python Security Automation                  ║
-║        → Machine Learning for Cyber Security         ║
-║        → Threat Detection                            ║
-║        → Digital Forensics                           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# 🧠 MAJOR PROJECT
-
-<div align="center">
-
-## 🔴 DEEPGUARD
-
-### `AN INTELLIGENT INTRUSION DETECTION AND PREVENTION SYSTEM`
-
-### 🛡️ USING RANDOM FOREST
 
 <br>
 
-<img src="https://img.shields.io/badge/AI-THREAT_DETECTION-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-RANDOM_FOREST-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SECURITY-IDPS-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DASHBOARD-STREAMLIT-FF0000?style=for-the-badge"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Working%20With-FF0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Familiar-111111?style=for-the-badge&logo=openjdk&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/SQL-Working%20With-FF0000?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-Learning-111111?style=for-the-badge&logo=git&logoColor=FF0000"/>
 
 </div>
 
-### 🔥 Project Focus
+## 🔐 Cybersecurity
 
-```text
-DEEPGUARD is an intelligent Intrusion Detection and Prevention
-System designed to identify malicious network activities using
-Machine Learning.
+<div align="center">
 
-Core Technology:
-    → Random Forest
-    → Network Traffic Analysis
-    → Attack Detection
-    → Behavioral Analysis
-    → Real-Time Monitoring
-    → Streamlit Dashboard
-```
+<img src="https://img.shields.io/badge/Network%20Security-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IDS%20%2F%20IPS-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat%20Detection-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Traffic%20Analysis-FF0000?style=for-the-badge"/>
+
+</div>
+
+## 🌐 Networking
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TCP%2FIP-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/DNS-FF0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network%20Monitoring-FF0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firewall-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-FF0000?style=flat-square&logo=linux&logoColor=white"/>
+
+</div>
+
+## 🧰 Security Tools & Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snort-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Suricata-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/pfSense-FF0000?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 📊 SECURITY FOCUS
+# 🚨 FEATURED PROJECT
+
+<div align="center">
+
+## 🛡️ DEEPGUARD
+
+### *An Intelligent Intrusion Detection and Prevention System using Random Forest*
+
+<img src="https://img.shields.io/badge/PROJECT-CYBERSECURITY-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-RANDOM%20FOREST-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYTHON-FF0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/STREAMLIT-111111?style=for-the-badge&logo=streamlit&logoColor=FF0000"/>
+
+</div>
+
+### 🔎 Project Overview
+
+**DEEPGUARD** is an intelligent **Intrusion Detection and Prevention System (IDPS)** designed to identify potentially malicious network activity using machine learning.
+
+The system uses the **Random Forest classification algorithm** to analyze network traffic and classify activity based on relevant network and behavioral characteristics.
+
+### ⚙️ Key Features
+
+- 🔍 Network traffic analysis
+- 🛡️ Intrusion detection
+- 🚨 Attack classification
+- 🌐 Network behavior analysis
+- 🤖 Random Forest machine learning model
+- 📊 Security analytics
+- 📈 Detection statistics
+- 🖥️ Streamlit-based dashboard
+- 🔐 Security monitoring
+
+### 🧠 Technologies Used
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,linux&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scikit--learn-Random%20Forest-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/NumPy-FF0000?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=FF0000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/DEEPGUARD">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-FF0000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/DEEPGUARD#readme">
+<img src="https://img.shields.io/badge/📖%20DOCUMENTATION-111111?style=for-the-badge"/>
+</a>
+
+</div>
+
+> **Replace `YOUR_USERNAME` with your actual GitHub username.**
+
+---
+
+# 📜 CERTIFICATIONS
+
+<div align="center">
+
+| 🏆 Organization | 📜 Certification / Training |
+|---|---|
+| 🔴 **Pregrad** | Training in Cyber Security |
+| ⚫ **SkillUp** | Python Programming |
+| 🔴 **Cisco Networking Academy** | Cisco Ethical Hacker |
+| ⚫ **Fortinet** | Fortinet NSE 1 |
+
+</div>
+
+---
+
+# 🌱 CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1600&pause=500&color=FF0000&center=true&vCenter=true&width=800&height=45&lines=CYBER+SECURITY+%E2%86%92+NETWORK+SECURITY;NETWORK+SECURITY+%E2%86%92+ETHICAL+HACKING;ETHICAL+HACKING+%E2%86%92+THREAT+DETECTION;THREAT+DETECTION+%E2%86%92+SECURITY+AUTOMATION" alt="Learning Path"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```text
-        ┌───────────────────────────────┐
-        │       NETWORK TRAFFIC         │
-        └───────────────┬───────────────┘
-                        ↓
-        ┌───────────────────────────────┐
-        │      FEATURE EXTRACTION       │
-        └───────────────┬───────────────┘
-                        ↓
-        ┌───────────────────────────────┐
-        │       RANDOM FOREST           │
-        │       CLASSIFICATION          │
-        └───────────────┬───────────────┘
-                        ↓
-        ┌───────────────────────────────┐
-        │       THREAT DETECTION        │
-        └───────────────┬───────────────┘
-                        ↓
-        ┌───────────────────────────────┐
-        │        SECURITY ALERT         │
-        └───────────────────────────────┘
+                 ┌──────────────────┐
+                 │  CYBER SECURITY  │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ NETWORK SECURITY │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ ETHICAL HACKING  │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ THREAT DETECTION │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ PYTHON SECURITY  │
+                 │   AUTOMATION     │
+                 └──────────────────┘
 ```
+
+</div>
+
+---
+
+# 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=FF0000&text_color=FFFFFF" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=050505&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="70%"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -253,45 +320,37 @@ Core Technology:
 
 # 🎯 CAREER GOAL
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🎯 My goal is to build a strong career in Cyber Security  │
-│                                                             │
-│  I aim to work in areas such as:                            │
-│                                                             │
-│  🔴 Cyber Security                                          │
-│  🔴 Network Security                                        │
-│  🔴 Ethical Hacking                                          │
-│  🔴 Security Operations                                     │
-│  🔴 Threat Detection                                        │
-│  🔴 Digital Forensics                                        │
-│  🔴 Security Automation                                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+My goal is to build a strong career in **Cyber Security** and become a skilled security professional with strong knowledge of **Network Security, Ethical Hacking, Threat Detection, Security Operations, and Security Automation**.
 
----
-
-# 📫 CONNECT WITH ME
+I want to work on real-world cybersecurity challenges, build practical security solutions, and continuously improve my technical and problem-solving abilities.
 
 <div align="center">
 
-<a href="https://github.com/rishiloganathan">
-<img src="https://img.shields.io/badge/GitHub-rishiloganathan-000000?style=for-the-badge&logo=github&logoColor=FF0000"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=FF0000&center=true&vCenter=true&width=700&height=45&lines=%3E+BUILDING+SECURE+SYSTEMS...;%3E+ANALYZING+CYBER+THREATS...;%3E+LEARNING+EVERY+DAY...;%3E+PREPARING+FOR+THE+FUTURE" alt="Career Animation"/>
+
+<br>
+
+### **"Learn. Explore. Secure." 🔐**
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:rishiloganathan13@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rishi-l-69ba5931a/">
-<img src="https://img.shields.io/badge/LinkedIn-Rishi_L-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
 </a>
 
-<a href="mailto:rishiloganathan13@gmail.com">
-<img src="https://img.shields.io/badge/Email-rishiloganathan13%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FF0000"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-### 🔥 Let's Connect, Learn & Build Secure Systems Together 🔥
 
 </div>
 
@@ -299,8 +358,14 @@ Core Technology:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF0000,40:8B0000,70:1A0000,100:000000&section=footer&animation=twinkling"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=FF0000&style=for-the-badge"/>
 
-### 🔴 `EXPLORE • LEARN • BUILD • SECURE` 🔴
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=FF0000&center=true&vCenter=true&width=750&height=50&lines=%3E+Cyber+Security+%7C+Networking+%7C+Python;%3E+Learning+Today+%7C+Securing+Tomorrow;%3E+Stay+Curious.+Stay+Secure.+%F0%9F%94%90;%3E+SYSTEM+STATUS%3A+ONLINE;%3E+CONNECTION+ESTABLISHED" alt="Footer Animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF0000,20:CC0000,50:180000,75:080000,100:050505&section=footer&animation=twinkling"/>
 
 </div>
