@@ -4,7 +4,9 @@
 <!--                    CYBERSECURITY HEADER                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,25:0D0000,50:180000,75:8B0000,100:FF0000&text=RISHI&fontColor=FFFFFF&fontSize=75&fontAlignY=38&animation=twinkling&desc=CYBER%20SECURITY%20%7C%20NETWORKING%20%7C%20PYTHON&descAlignY=62&descSize=18&descColor=FF3333"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,25:0D0000,50:180000,75:8B0000,100:FF0000&text=RISHI&fontColor=FFFFFF&fontSize=75&fontAlignY=38&animation=twinkling&desc=CYBER%20SECURITY%20%7C%20NETWORKING%20%7C%20PYTHON&descAlignY=62&descSize=18&descColor=FF3333"/>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=FF2222&center=true&vCenter=true&width=850&height=55&lines=%3E%3E+Cyber+Security+Student+%F0%9F%94%90;%3E%3E+Network+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;%3E%3E+Python+Developer+%F0%9F%90%8D;%3E%3E+Ethical+Hacking+Learner+%F0%9F%94%A5;%3E%3E+Threat+Detection+Explorer+%F0%9A%A8;%3E%3E+Exploring+%7C+Learning+%7C+Securing" alt="Typing SVG"/>
 
@@ -16,6 +18,10 @@
 
 <a href="https://www.linkedin.com/in/rishi-l-69ba5931a/">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
+</a>
+
+<a href="https://github.com/rishiloganathan">
+<img src="https://img.shields.io/badge/GITHUB-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -206,17 +212,15 @@ The system uses the **Random Forest classification algorithm** to analyze networ
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/DEEPGUARD">
+<a href="https://github.com/rishiloganathan/DEEPGUARD">
 <img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-FF0000?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/DEEPGUARD#readme">
+<a href="https://github.com/rishiloganathan/DEEPGUARD#readme">
 <img src="https://img.shields.io/badge/📖%20DOCUMENTATION-111111?style=for-the-badge"/>
 </a>
 
 </div>
-
-> **Replace `YOUR_USERNAME` with your actual GitHub username.**
 
 ---
 
@@ -278,46 +282,6 @@ The system uses the **Random Forest classification algorithm** to analyze networ
 
 ---
 
-# 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=FF0000&text_color=FFFFFF" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=050505&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="70%"/>
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 # 🎯 CAREER GOAL
 
 My goal is to build a strong career in **Cyber Security** and become a skilled security professional with strong knowledge of **Network Security, Ethical Hacking, Threat Detection, Security Operations, and Security Automation**.
@@ -348,9 +312,13 @@ I want to work on real-world cybersecurity challenges, build practical security 
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FF0000"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/rishiloganathan">
 <img src="https://img.shields.io/badge/GITHUB-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
+
+### 🔴 Let's Connect, Learn & Build Secure Systems Together 🔴
 
 </div>
 
@@ -358,11 +326,7 @@ I want to work on real-world cybersecurity challenges, build practical security 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=FF0000&style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=FF0000&center=true&vCenter=true&width=750&height=50&lines=%3E+Cyber+Security+%7C+Networking+%7C+Python;%3E+Learning+Today+%7C+Securing+Tomorrow;%3E+Stay+Curious.+Stay+Secure.+%F0%9F%94%90;%3E+SYSTEM+STATUS%3A+ONLINE;%3E+CONNECTION+ESTABLISHED" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=FF0000&center=true&vCenter=true&width=750&height=50&lines=%3E+Cyber+Security+%7C+Networking+%7C+Python;%3E+Learning+Today+%7C+Securing+Tomorrow;%3E+Stay+Curious.+Stay+Secure.+%F0%9F%94%90" alt="Footer Animation"/>
 
 <br><br>
 
